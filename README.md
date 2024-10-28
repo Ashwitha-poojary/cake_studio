@@ -1,19 +1,28 @@
-# cake_studio
+# 🍰 Cake Studio
 
-Cake Studio is a web application used to order cakes by the customer. Customers can search for their desired cakes and order it from any of their favourite cake shops. Customers are also provided with option to upload photos if they want a photo cake. They can send special instructions on how the cake needs to be baked. Customers receive a notification when the cake has been prepared. 
- 
-Objectives 
-To reduce the manual work of waiting in lines to order cakes.
-To allow the user to view variety of items available at different shops. 
-Shop owners to easily manage the orders and keep track of it. 
+**Cake Studio** is a user-friendly web application where customers can conveniently order cakes from their preferred cake shops. Users can browse a variety of cakes, upload photos for custom cakes, provide special baking instructions, and receive notifications when their order is ready. This application aims to streamline the ordering process for customers and improve order management for shop owners.
 
- 
-Project category 
-Web application  
- 
-Languages used 
-  PHP  
- HTML, CSS 
- Java script 
- MySQL 
+## 🎯 Objectives
+- Minimize the time spent waiting in lines to place cake orders.
+- Allow customers to explore and select from a wide variety of cakes across different shops.
+- Enable shop owners to manage orders efficiently and keep track of all customer requests.
+
+## 📁 Project Category
+- **Web Application**
+
+## 💻 Languages and Technologies Used
+- **PHP**
+- **HTML, CSS**
+- **JavaScript**
+- **MySQL**
+
+## 📚 Features
+- **Search Functionality**: Allows customers to find their desired cakes from various shops.
+- **Photo Upload for Custom Cakes**: Customers can upload images for custom photo cakes.
+- **Special Instructions**: Feature for personalized baking preferences.
+- **Notification System**: Alerts customers when their cake is ready for pickup.
+
+---
+
+
  
