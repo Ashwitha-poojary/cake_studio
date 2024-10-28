@@ -1,0 +1,328 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>login to cake studio</title>
+    <link href="style/style.css" ref="stylesheet" />
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    <link rel="stylesheet" href="style/style.css">
+    <link href="https://fonts.googleapis.com/css?family=Pacifico&display=swap" rel="stylesheet">
+    <link href="bootstrap.css" ref="stylesheet" />
+ </head>
+  <body>
+    <nav class="navbar navbar-dark fixed-top  flex-md-nowrap p-0 shadow " style="background-color: white;">
+  <a class="navbar-brand col-sm-3 col-md-2 mr-0" href="#" style="font-family: 'Pacifico', cursive; font-size:50px; color:#d2996e;">Cake Studio</a>
+  <div style="margin:auto; padding:0; width:60%">
+  <input class="form-control form-control-dark w-100" type="text" placeholder="Search" aria-label="Search">
+  <ul class="navbar-nav px-3">
+    <li class="nav-item text-nowrap">
+      <a class="nav-link" href="#">Sign out</a>
+    </li>
+  </ul>
+  </div>
+</nav>
+<div style="margin: 7% 0%; padding:0%;" >
+<div class="container-fluid " style="margin: 0%;">
+  <div class="row">
+    <nav class="col-md-2 d-md-block bg-light sidebar">
+      <div class="sidebar-sticky">
+        <ul class="nav flex-column">
+          <li class="nav-item">
+            <a class="nav-link active" href="#">
+              <span data-feather="home"></span>
+              Dashboard <span class="sr-only">(current)</span>
+            </a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">
+              <span data-feather="file"></span>
+              Orders
+            </a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">
+              <span data-feather="shopping-cart"></span>
+              Products
+            </a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">
+              <span data-feather="users"></span>
+              Customers
+            </a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">
+              <span data-feather="bar-chart-2"></span>
+              Reports
+            </a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">
+              <span data-feather="layers"></span>
+              Integrations
+            </a>
+          </li>
+        </ul>
+
+        <h6 class="sidebar-heading d-flex justify-content-between align-items-center px-3 mt-4 mb-1 text-muted">
+          <span>Saved reports</span>
+          <a class="d-flex align-items-center text-muted" href="#" aria-label="Add a new report">
+            <span data-feather="plus-circle"></span>
+          </a>
+        </h6>
+        <ul class="nav flex-column mb-2">
+          <li class="nav-item">
+            <a class="nav-link" href="#">
+              <span data-feather="file-text"></span>
+              Current month
+            </a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">
+              <span data-feather="file-text"></span>
+              Last quarter
+            </a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">
+              <span data-feather="file-text"></span>
+              Social engagement
+            </a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">
+              <span data-feather="file-text"></span>
+              Year-end sale
+            </a>
+          </li>
+        </ul>
+      </div>
+    </nav>
+
+    <main role="main" class="col-md-9 ml-sm-auto col-lg-10 px-4">
+      <div class="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center pt-3 pb-2 mb-3 border-bottom">
+        <h1 class="h2">Dashboard</h1>
+        <!--<div class="btn-toolbar mb-2 mb-md-0">
+          <div class="btn-group mr-2">
+            <button type="button" class="btn btn-sm btn-outline-secondary">Share</button>
+            <button type="button" class="btn btn-sm btn-outline-secondary">Export</button>
+          </div>
+          <button type="button" class="btn btn-sm btn-outline-secondary dropdown-toggle">
+            <span data-feather="calendar"></span>
+            This week
+          </button>
+        </div>
+-->
+<div style="float: left;">
+        <p>hbh</p>
+</div>
+      </div>  
+    </main>
+  </div>
+</div>
+</div>
+<p>ffhf</p>
+<div style="margin: 500px"></div>
+<script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+      <script>window.jQuery || document.write('<script src="/docs/4.4/assets/js/vendor/jquery.slim.min.js"><\/script>')</script><script src="/docs/4.4/dist/js/bootstrap.bundle.min.js" integrity="sha384-6khuMg9gaYr5AxOqhkVIODVIvm9ynTT5J4V1cfthmT+emCG6yVmEZsRHdxlotUnm" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/feather-icons/4.9.0/feather.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.3/Chart.min.js"></script>
+        <script src="dashboard.js"></script>
+</body>
+</html>
+
+
+
+
+
+<ul class="nav justify-content-center">
+  <li class="nav-item">
+    <a class="nav-link active" href="#">Active</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="#">Link</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="#">Link</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
+  </li>
+</ul>
+
+$select="SELECT email from testc Where email = ? Limit 1";
+
+/* $stmt=$conn->prepare($select);
+  $stmt->bind_param("s",$email);
+  $stmt->execute();
+  $stmt->bind_result($email);
+  $stmt->store_result();
+  $rnum=$stmt->num_rows;
+  if($rnum==0){
+    $stmt->close();
+    
+  }
+  */
+
+
+
+
+  if(isset($_POST['submit'])){
+    if (isset($_POST['email']) && isset($_POST['passwd'])){
+      $fname= $_POST['fname'];
+      $lname= $_POST['lname'];
+      $name=$fname." ".$lname;
+      $email= $_POST['email'];
+      $passwd= $_POST['passwd'];
+      $passwd=md5($passwd);
+      $phno=$_POST['phno'];
+      $address1= $_POST['address'];
+      $address2= $_POST['address2'];
+      $city= $_POST['city'];
+      $address=$address1." ".$address2." ".$city;
+      $sql= "INSERT INTO users(name,email,passwd,phno,addr) VALUES ('$name','$email','$passwd','$phno','$address')";
+      $cndtn= "SELECT * from users WHERE email = '$email' ";
+      if($res=mysqli_query($conn,$cndtn)){
+        $num=mysqli_num_rows($res);
+        if($num>0){
+          echo "<script type=text/javascript>
+                  document.getElementById('hide').innerHTML='Email already in use. Please use another email address ';
+                </script>";
+        }else{
+        mysqli_query($conn,$sql);
+        }
+        mysqli_free_result($res);
+      }
+      else{
+        echo "err".mysqli_error($conn);
+      }
+    }else{
+      echo "2";
+    }
+    }else{
+      echo "3";
+    }
+?>
+
+
+
+
+
+<main role="main" class="col-md-9 ml-sm-auto col-lg-10 px-4">
+      <div class="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center pt-3 pb-2 mb-3 border-bottom">
+        <h1 class="h2">Dashboard</h1>
+        <!--<div class="btn-toolbar mb-2 mb-md-0">
+          <div class="btn-group mr-2">
+            <button type="button" class="btn btn-sm btn-outline-secondary">Share</button>
+            <button type="button" class="btn btn-sm btn-outline-secondary">Export</button>
+          </div>
+          <button type="button" class="btn btn-sm btn-outline-secondary dropdown-toggle">
+            <span data-feather="calendar"></span>
+            This week
+          </button>
+        </div>
+-->
+<div style="float: left;">
+        <p>hbh</p>
+</div>
+      </div>  
+    </main>
+</div>
+
+<p>ffhf</p>
+<div style="margin: 500px"></div>
+
+
+
+$file=$_FILES['file'];
+
+$fileName=$_FILES['file']['name'];
+$fileTmpname=$_FILES['file']['tmp_name'];
+$filesize=$_FILES['file']['size'];
+$fileerror=$_FILES['file']['error'];
+$filetype=$_FILES['file']['type'];
+
+$fileExt= explode('.',$fileName);
+$fileActualExt=strtolower(end($fileExt));
+
+$allowed=array('jpg','jpeg','png');
+
+if(in_array($fileActualExt,$allowed)){
+  if($fileerror===0){
+      $filenamenew=uniqid('',true).".".$fileActualExt;
+      $fileDestination='../uploads/'.$filenamenew;
+      move_uploaded_file($fileTmpname,$fileDestination)
+    }
+}else{
+
+}
+
+
+
+$target="images/".basename($_FILES['image']['name']);
+
+//to upload using query 
+$image=$_FILES['image']['name'];
+
+ move_uploaded_file($_FILES['image']['tmp_name],$target);
+
+ src="image/".$row['image'];
+
+
+
+
+
+ <section>
+  <div style="margin:auto;margin-right:0%; padding:10% 0% 0% 0%; width: 80%; border-radius:50px;">
+  <h1>Item List</h1>
+  <hr>
+  <?php foreach($list as $item): ?>
+    <div style="float: left; width:30%;margin:auto; border:red;border-width:10px; ">
+        <h3><?php echo $item['name'] ; ?></h3>
+        <div>
+        <?php echo "<img src='../uploads/". $item['item_img']." ' style='display: block;max-width:240px;max-height:240px;width: auto;height: auto;'>"; ?>
+        </div>
+        <h4>Description</h4>
+        <hr>
+        <p><?php echo $item['descp']; ?></p>
+        <hr>
+        <h3>Price</h3>
+        <hr>
+        <p><?php echo $item['price']; ?></p>
+        <button class="btn btn-primary">Read more</button>
+    </div>
+
+  <?php endforeach; ?>
+ </div>
+</section>
+
+
+
+
+
+
+
+<div class="form-group">
+    <label for="exampleFormControlSelect1">Example select</label>
+    <select class="form-control" id="exampleFormControlSelect1">
+      <option>1</option>
+      <option>2</option>
+      <option>3</option>
+      <option>4</option>
+      <option>5</option>
+    </select>
+  </div>
+
+  <div class="form-group">
+    <label for="exampleFormControlTextarea1">Example textarea</label>
+    <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
+  </div>
+
+
+  half kg price written in webpage
+
+  //admin
+  shops have status 2 which means disabled
+  
